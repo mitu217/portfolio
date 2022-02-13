@@ -1,7 +1,5 @@
 import { FaGithub } from 'react-icons/fa';
 import { FaTwitter } from 'react-icons/fa';
-import { FaRegPaperPlane } from 'react-icons/fa';
-import { FaDiscord } from 'react-icons/fa';
 import Image from 'next/image';
 
 const Card = () => {

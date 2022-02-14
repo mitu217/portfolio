@@ -4,9 +4,9 @@ import { FaTwitter } from 'react-icons/fa';
 const Card = () => {
   return (
     <section className='min-h-screen w-full'>
-      <div className='h-screen flex flex-col justify-center max-w-xs mx-auto bg-white rounded-xl p-5 dark:bg-gray-900'>
+      <div className='h-screen flex flex-col justify-center mx-auto bg-white dark:bg-gray-900'>
         <div className='text-center'>
-          <img src='/icon.png' alt='mitu217' className='w-32 mx-auto rounded-full' />
+          <img src='/icon.png' alt='mitu217' className='w-32 mx-auto rounded-full bg-white' />
         </div>
         <div className='text-center mt-5'>
           <p className='text-lg sm:text-xl font-semibold text-gray-900 dark:text-gray-50'>
